@@ -1,0 +1,7 @@
+ShowMap button functionality
+Save Polygon button 
+Draw Polygons
+Convert coordinates to GeoJSON
+Save to an object
+Add name input field
+Display saved Polygons to the map
