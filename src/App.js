@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Grid, Box } from "grommet";
 import MyMap from "./components/Map/MyMap";
+import Newmap from "./components/Map/NewMap";
 import UiButton from "./components/ui/Button";
 import NavBar from "./components/ui/NavBar";
 import Footer from "./components/ui/Footer";
@@ -41,6 +42,7 @@ function App() {
         </Grid>
         <Footer />
       </MapContextProvider>
+      {/* <NewMap /> */}
     </div>
   );
 }
